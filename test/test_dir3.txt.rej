@@ -1,0 +1,5 @@
+diff a/test/test_dir3.txt b/test/test_dir3.txt	(rejected hunks)
+@@ -0,0 +1,3 @@
++test
++
++test
